@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Assignments from "./components/Assignments";
+import Assignments from "./components/assignments";
 import Home from "./components/home";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
