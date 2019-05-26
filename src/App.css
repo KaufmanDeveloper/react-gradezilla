@@ -31,3 +31,7 @@
     transform: rotate(360deg);
   }
 }
+
+.home-card {
+  max-width: 315px;
+}
